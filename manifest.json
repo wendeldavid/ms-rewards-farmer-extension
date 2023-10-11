@@ -1,0 +1,16 @@
+{
+  "action": {
+    "default_icon": "assets/icon.png",
+    "default_popup": "src/popup.html"
+  },
+  "background": {
+    "service_worker": "src/background.js"
+  },
+  "description": "Automatically search a list of queries on Bing to earn Rewards points",
+  
+  "manifest_version": 3,
+  "name": "MS Rewards Farmer",
+  "permissions": ["tabs", "activeTab"],
+  "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+  "version": "1.0"
+}
