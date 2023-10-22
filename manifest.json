@@ -7,7 +7,6 @@
     "service_worker": "src/background.js"
   },
   "description": "Automatically search a list of queries on Bing to earn Rewards points",
-  
   "manifest_version": 3,
   "name": "MS Rewards Farmer",
   "permissions": ["tabs", "activeTab"],

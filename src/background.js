@@ -35,7 +35,6 @@ async function doSearch() {
             message: 'Job Finished'
         });
     }
-    // document.gtElementById("remaining").innerHTML = count;
     
 }
 
